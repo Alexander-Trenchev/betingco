@@ -1,4 +1,4 @@
-"""This module contains the exceptions for the project"""
+"""This module contains the custom exceptions for the project"""
 
 
 class LoginFailed(Exception):
